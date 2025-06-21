@@ -32,13 +32,13 @@
 
 ## 🖥️ How It Works
 
-| Gesture                | Action                        | Visual |
-|------------------------|-------------------------------|--------|
-| <img src="https://img.icons8.com/ios-filled/24/000000/hand-cursor.png"/> **Left hand index** | Move mouse cursor           | 🖱️     |
-| <img src="https://img.icons8.com/ios-filled/24/000000/pinch.png"/> **Left hand pinch** | Mouse click                 | 👆     |
-| <img src="https://img.icons8.com/ios-filled/24/000000/hand-right.png"/> **Right hand swipe** | Arrow keys (← ↑ → ↓)        | ⬅️⬆️➡️⬇️ |
-| <img src="https://img.icons8.com/ios-filled/24/000000/keyboard.png"/> **Right hand pinch on key** | Type that letter            | 🔤     |
-| <img src="https://img.icons8.com/ios-filled/24/000000/rock-on.png"/> **Rock gesture** | Spacebar                    | ⬜     |
+| Gesture | Action | Visual |
+|--------|--------|--------|
+| <img src="https://img.icons8.com/ios-filled/48/000000/hand-cursor.png" width="34" height="34" style="margin-right:14px;"/> **Left hand index** | Move mouse cursor | 🖱️ |
+| <img src="https://img.icons8.com/ios-filled/48/000000/pinch.png" width="34" height="34" style="margin-right:14px;"/> **Left hand pinch** | Mouse click | 👆 |
+| <img src="https://img.icons8.com/ios-filled/48/000000/hand-right.png" width="34" height="34" style="margin-right:14px;"/> **Right hand swipe** | Arrow keys (← ↑ → ↓) | ⬅️⬆️➡️⬇️ |
+| <img src="https://img.icons8.com/ios-filled/48/000000/keyboard.png" width="34" height="34" style="margin-right:14px;"/> **Right hand pinch on key** | Type that letter | 🔤 |
+| <img src="./readme_images/rock.png" width="34" height="34" style="margin-right:14px;"/> **Rock gesture** | Spacebar | ⬜ |
 
 ---
 
