@@ -1,7 +1,3 @@
-You asked for a visually stunning, colorful, and powerful README for your hand gesture virtual keyboard project. Here’s a README.md that uses rich Markdown, shields, and visual cues to make your project stand out. You can further enhance it with screenshots or GIFs of your app in action!
-
----
-
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3.8%2B-blue?style=for-the-badge&logo=python">
   <img src="https://img.shields.io/badge/OpenCV-4.x-brightgreen?style=for-the-badge&logo=opencv">
@@ -33,15 +29,6 @@ You asked for a visually stunning, colorful, and powerful README for your hand g
 - <span style="color:#7b1fa2">**Arrow key swipes**</span> and <span style="color:#388e3c">spacebar gesture</span> support
 - <span style="color:#0288d1">**No touch, no click, just gestures!**</span>
 
----
-
-## 🎬 Demo
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/your-gif-demo.gif" width="600" alt="Demo GIF"/>
-</p>
-
----
 
 ## 🖥️ How It Works
 
@@ -127,15 +114,6 @@ python main.py
 - Adjust gesture sensitivity thresholds in `main.py` and `keyboardtest.py`
 - Add more gestures or keys as you wish!
 
----
-
-## 🏆 Credits
-
-- [MediaPipe](https://google.github.io/mediapipe/)
-- [OpenCV](https://opencv.org/)
-- [PyAutoGUI](https://pyautogui.readthedocs.io/en/latest/)
-
----
 
 ## ❤️ Show Your Support
 
