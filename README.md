@@ -75,17 +75,6 @@ python main.py
 
 ---
 
-## 🎨 Visuals
-
-<p align="center">
-  <img src="https://img.icons8.com/color/96/keyboard.png" width="80"/>
-  <img src="https://img.icons8.com/color/96/hand-cursor.png" width="80"/>
-  <img src="https://img.icons8.com/color/96/hand-right.png" width="80"/>
-  <img src="https://img.icons8.com/color/96/pinch.png" width="80"/>
-</p>
-
----
-
 ## 🧩 File Structure
 
 ```plaintext
@@ -114,42 +103,3 @@ python main.py
 - Adjust gesture sensitivity thresholds in `main.py` and `keyboardtest.py`
 - Add more gestures or keys as you wish!
 
-
-## ❤️ Show Your Support
-
-<p align="center">
-  <a href="https://github.com/yourusername/hand-gesture-keyboard/stargazers">
-    <img src="https://img.shields.io/github/stars/yourusername/hand-gesture-keyboard?style=for-the-badge&color=ff69b4">
-  </a>
-  <a href="https://github.com/yourusername/hand-gesture-keyboard/issues">
-    <img src="https://img.shields.io/github/issues/yourusername/hand-gesture-keyboard?style=for-the-badge&color=orange">
-  </a>
-  <a href="https://github.com/yourusername/hand-gesture-keyboard/fork">
-    <img src="https://img.shields.io/github/forks/yourusername/hand-gesture-keyboard?style=for-the-badge&color=blueviolet">
-  </a>
-</p>
-
----
-
-## 📸 Screenshots
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/your-screenshot1.png" width="400"/>
-  <img src="https://user-images.githubusercontent.com/your-screenshot2.png" width="400"/>
-</p>
-
----
-
-## 📢 Contributing
-
-Pull requests are welcome! For major changes, please open an issue first to discuss what you would like to change.
-
----
-
-## ⚠️ Disclaimer
-
-This project is for educational and demonstration purposes. Use responsibly!
-
----
-
-Need more customization or want to add more visual flair? Let me know if you want badges, more icons, or even a custom logo!
